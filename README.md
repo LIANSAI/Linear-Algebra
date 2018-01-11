@@ -1,3 +1,14 @@
-# My Awesome Book
+# Linear Algebra Study Note
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+---
+
+###### 
+
+###### 个人对网易公开课上麻省理工线性代数课程的学习笔记，方便日后复习
+
+###### Chapter 1 - Chapter5 因学习时间较早，整理到了线下笔记本上，日后填坑.
+
+###### 
+
+
+
