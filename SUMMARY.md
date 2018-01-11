@@ -7,4 +7,5 @@
 * [Chapter 4 A的LU分解](chapter-4-ade-lu-fen-jie.md)
 * [Chapter 5 转置 置换 向量](chapter-5-zhuan-zhi-zhi-huan-xiang-liang.md)
 * [Chapter 6 列空间和零空间](chapter-6-lie-kong-jian-he-ling-kong-jian.md)
+* [Chapter 7 求解Ax=0 主变量，特解](chapter-7-qiu-jie-ax-0-zhu-bian-liang-ff0c-te-jie.md)
 
