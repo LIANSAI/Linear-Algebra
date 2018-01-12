@@ -29,15 +29,13 @@ To find complete solution to Ax=b
 
 **对于方程组某解，其与零空间内任意向量之和仍为解**
 
-通解：
+通解：特解（particular solution\)（free variable取 0 0）+特殊解（special soulution\)（一个自由变量设置为1，其他都为0，解得数量和自由变量数量一样）任意零空间的向量
 
 ![](/assets/微信图片_20180112124418.png)
 
 两个自由变量——两个特殊解
 
-
-
-2. Think bigger
+1. Think bigger
 
 考虑：mXn rank为r 的矩阵 A （r&lt;=m, r&lt;=n\)
 
@@ -51,13 +49,9 @@ Null space：只有一个零向量
 
 Ax=b的解将只有零个或一个 X=X\_particular
 
-
-
 什么样的列满秩矩阵总有解？
 
 b是线性组合
-
-
 
 2.2 行满秩 r=m
 
@@ -77,25 +71,9 @@ nullspace: 只有 0 向量
 
 **Ax=b有解：任意b都有解且解唯一**
 
-
-
-3. Summary
+1. Summary
 
 ![](/assets/微信图片_20180112124423.png)
 
 矩阵的秩决定了方程组解的数目
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
