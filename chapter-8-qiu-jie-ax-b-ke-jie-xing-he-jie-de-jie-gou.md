@@ -29,7 +29,7 @@ To find complete solution to Ax=b
 
 **对于方程组某解，其与零空间内任意向量之和仍为解**
 
-通解：特解（particular solution\)（free variable取 0 0）+特殊解（special soulution\)（一个自由变量设置为1，其他都为0，解得数量和自由变量数量一样）任意零空间的向量
+通解：特解（particular solution\)（free variable取 0 0）+特殊解（special soulution\)（一个自由变量设置为1，其他都为0，解得数量和自由变量数量一样）任意零空间的向量\(求Ax=0的解）
 
 ![](/assets/微信图片_20180112124418.png)
 
