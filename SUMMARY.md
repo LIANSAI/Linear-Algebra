@@ -8,4 +8,5 @@
 * [Chapter 5 转置 置换 向量](chapter-5-zhuan-zhi-zhi-huan-xiang-liang.md)
 * [Chapter 6 列空间和零空间](chapter-6-lie-kong-jian-he-ling-kong-jian.md)
 * [Chapter 7 求解Ax=0 主变量，特解](chapter-7-qiu-jie-ax-0-zhu-bian-liang-ff0c-te-jie.md)
+* [Chapter 8 求解Ax=b 可解性和解的结构](chapter-8-qiu-jie-ax-b-ke-jie-xing-he-jie-de-jie-gou.md)
 
