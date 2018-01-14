@@ -13,6 +13,8 @@
 
 ![](/assets/微信图片_20180114090451.png)
 
+
+
 basis ? dimension?
 
 2.1
@@ -21,15 +23,15 @@ basis ? dimension?
 
 2.2
 
-行空间：dimension- rank r
+行空间：dimension是rank r
 
-A-U-R 变换后  C（R）=！C（A）_** 列空间不同**_，但行空间仍相同,  因此basis for row space 是前 r 行 of R.
+A-U-R 变换后  C（R）=！C（A）_** 列空间不同**_，但行空间仍相同,  因此行空间的basis是R的前 r 行/
 
 2.3
 
 零空间：矩阵A化简 A---U---R，我们可以得到特殊解，特殊解是从自由变量中得到，特殊解在零空间中。
 
-N（A）basis：特殊解们, n-r个特殊解
+N（A）basis：特殊解的集合,共有 n-r个特殊解
 
 2.4
 

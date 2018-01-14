@@ -12,4 +12,5 @@
 * [Chapter 9 线性相关性，基，维数](chapter-9.md)
 * [Chapter 10 四个基本子空间](chapter-10-si-ge-ji-ben-zi-kong-jian.md)
 * [Chapter 11 矩阵空间 秩1矩阵和小世界图](chapter-11-ju-zhen-kong-jian-zhi-1-ju-zhen-he-xiao-shi-jie-tu.md)
+* [Chapter 12 图和网络](chapter-12-tu-he-wang-luo.md)
 
