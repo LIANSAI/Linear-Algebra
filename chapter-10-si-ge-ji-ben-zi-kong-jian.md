@@ -23,11 +23,11 @@ basis ? dimension?
 
 行空间：dimension- rank r
 
-A-U-R 变换后  C（R）=！C（A） 列空间不同，但行空间仍相同,  因此basis for row space 是前 r 行 of R.
+A-U-R 变换后  C（R）=！C（A）_** 列空间不同**_，但行空间仍相同,  因此basis for row space 是前 r 行 of R.
+
+2.3
 
 零空间：矩阵A化简 A---U---R，我们可以得到特殊解，特殊解是从自由变量中得到，特殊解在零空间中。
-
-2.3 
 
 N（A）basis：特殊解们, n-r个特殊解
 
@@ -47,6 +47,8 @@ N（A\_T\) dimension: m-r
 ![](/assets/微信图片_20180114090524.png)
 
 ![](/assets/微信图片_20180114090526.png)
+
+**A=LU变换到 LA=U，L中自由变量的对应行就是左零空间basis**
 
 3.总结
 
