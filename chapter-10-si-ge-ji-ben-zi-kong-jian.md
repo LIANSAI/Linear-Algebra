@@ -9,35 +9,31 @@
 * 行空间 （row的线性组合=A转置矩阵的列的所有组合）in R\_m
 * A转置的零空间 N（A_T\)--左零空间of A     in_ R\_m
 
-
-
 2.
 
 ![](/assets/微信图片_20180114090451.png)
 
 basis ? dimension?
 
-2.1 
+2.1
 
 列空间：basis是主列  dimension是 rank r
 
-行空间：dimension- rank r, 
+2.2
+
+行空间：dimension- rank r
+
+A-U-R 变换后  C（R）=！C（A） 列空间不同，但行空间仍相同,  因此basis for row space 是前 r 行 of R.
 
 零空间：矩阵A化简 A---U---R，我们可以得到特殊解，特殊解是从自由变量中得到，特殊解在零空间中。
 
-N（A）basis：特殊解们, n-r个特殊解 
+2.3 
+
+N（A）basis：特殊解们, n-r个特殊解
+
+2.4
 
 N（A\_T\) dimension: m-r
-
-
-
-2.2 row空间basis 
-
-1.A-U-R 变换后  C（R）=！C（A） 列空间不同，但行空间仍相同,  因此basis for row space 是前 r 行 of R.
-
- 
-
-2.3 N（A\_T\)
 
 ![](/assets/微信图片_20180114090517.png)
 
@@ -52,21 +48,15 @@ N（A\_T\) dimension: m-r
 
 ![](/assets/微信图片_20180114090526.png)
 
-
-
 3.总结
 
 行空间和零空间在Rn中，维数相加得n
 
 列空间和左零空间在Rm中，维数相加得m
 
-
-
 4.new vector space M： aLL 3X3 矩阵， 把矩阵称作向量
 
-subspace of M: 
+subspace of M:
 
 ![](/assets/微信图片_20180114090528.png)
-
-
 
