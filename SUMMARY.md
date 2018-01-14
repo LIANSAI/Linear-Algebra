@@ -11,4 +11,5 @@
 * [Chapter 8 求解Ax=b 可解性和解的结构](chapter-8-qiu-jie-ax-b-ke-jie-xing-he-jie-de-jie-gou.md)
 * [Chapter 9 线性相关性，基，维数](chapter-9.md)
 * [Chapter 10 四个基本子空间](chapter-10-si-ge-ji-ben-zi-kong-jian.md)
+* [Chapter 11 矩阵空间 秩1矩阵和小世界图](chapter-11-ju-zhen-kong-jian-zhi-1-ju-zhen-he-xiao-shi-jie-tu.md)
 
