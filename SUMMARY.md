@@ -15,4 +15,5 @@
 * [Chapter 12 图和网络](chapter-12-tu-he-wang-luo.md)
 * [Chapter 14 正交向量与子空间](chapter-14-zheng-jiao-xiang-liang-yu-zi-kong-jian.md)
 * [Chapter 15 子空间投影](chapter-15-zi-kong-jian-tou-ying.md)
+* [Chapter16 投影矩阵和最小二乘](chapter16-tou-ying-ju-zhen-he-zui-xiao-er-cheng.md)
 
