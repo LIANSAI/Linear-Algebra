@@ -16,4 +16,5 @@
 * [Chapter 14 正交向量与子空间](chapter-14-zheng-jiao-xiang-liang-yu-zi-kong-jian.md)
 * [Chapter 15 子空间投影](chapter-15-zi-kong-jian-tou-ying.md)
 * [Chapter16 投影矩阵和最小二乘](chapter16-tou-ying-ju-zhen-he-zui-xiao-er-cheng.md)
+* [Chapter 17 正交矩阵和Gram-Schmidt正交化](chapter-17-zheng-jiao-ju-zhen-he-gram-schmidt-zheng-jiao-hua.md)
 
