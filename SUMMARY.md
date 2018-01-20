@@ -18,4 +18,5 @@
 * [Chapter16 投影矩阵和最小二乘](chapter16-tou-ying-ju-zhen-he-zui-xiao-er-cheng.md)
 * [Chapter 17 正交矩阵和Gram-Schmidt正交化](chapter-17-zheng-jiao-ju-zhen-he-gram-schmidt-zheng-jiao-hua.md)
 * [Chapter 18 行列式及其性质](chapter-18-xing-lie-shi-ji-qi-xing-zhi.md)
+* [Chapter 19 行列式公式和代数余子式](chapter-19-xing-lie-shi-gong-shi-he-dai-shu-yu-zi-shi.md)
 
