@@ -19,4 +19,5 @@
 * [Chapter 17 正交矩阵和Gram-Schmidt正交化](chapter-17-zheng-jiao-ju-zhen-he-gram-schmidt-zheng-jiao-hua.md)
 * [Chapter 18 行列式及其性质](chapter-18-xing-lie-shi-ji-qi-xing-zhi.md)
 * [Chapter 19 行列式公式和代数余子式](chapter-19-xing-lie-shi-gong-shi-he-dai-shu-yu-zi-shi.md)
+* [Chapter20 克拉默法则 逆矩阵 体积](chapter20-ke-la-mo-fa-ze-ni-ju-zhen-ti-ji.md)
 
