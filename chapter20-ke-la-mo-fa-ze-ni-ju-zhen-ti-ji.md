@@ -12,5 +12,3 @@ det A：product of n entries / det C^T: product of n-1 entries
 
 
 
-
-
