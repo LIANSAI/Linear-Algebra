@@ -6,9 +6,7 @@
 
 p
 
-C由代数余子式组成，称作伴随矩阵。
+C由代数余子式组成，称作伴随矩阵。  
 
 det A：product of n entries / det C^T: product of n-1 entries
-
-
 
