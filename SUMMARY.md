@@ -22,4 +22,6 @@
 * [Chapter20 克拉默法则 逆矩阵 体积](chapter20-ke-la-mo-fa-ze-ni-ju-zhen-ti-ji.md)
 * [Chapter21 特征值和特征向量](chapter21-te-zheng-zhi-he-te-zheng-xiang-liang.md)
 * [Chapter22 对角化和A的幂](chapter22-dui-jiao-hua-he-a-de-mi.md)
+* [Chapter 23 微分方程和exp](chapter-23-wei-fen-fang-cheng-he-exp.md)
+* [Chapter 24 马尔科夫矩阵和傅里叶级数](chapter-24-ma-er-ke-fu-ju-zhen-he-fu-li-xie-ji-shu.md)
 
