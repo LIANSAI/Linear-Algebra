@@ -25,4 +25,5 @@
 * [Chapter 24 马尔科夫矩阵和傅里叶级数](chapter-24-ma-er-ke-fu-ju-zhen-he-fu-li-xie-ji-shu.md)
 * [Chapter 25 对称矩阵](chapter-25-dui-cheng-ju-zhen.md)
 * [Chapter 23 微分方程](chapter-23wei-fen-fang-cheng.md)
+* [Chapter 27 正定矩阵](chapter-28-zheng-ding-ju-zhen.md)
 
